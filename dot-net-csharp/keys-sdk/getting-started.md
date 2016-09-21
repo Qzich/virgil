@@ -1,4 +1,6 @@
-# Getting startedThe goal of Virgil .NET/C# SDK Documentation is to give a developer the knowledge and understanding required to implement 
+# Getting started
+
+The goal of Virgil .NET/C# SDK Documentation is to give a developer the knowledge and understanding required to implement 
 security into his application using Virgil Security ecosystem.
 
 Virgil SDK is a communication gateway between your application and [Virgil services](link to Services docs page).
