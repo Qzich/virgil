@@ -2,12 +2,10 @@
 Virgil Security. Key Management and Cryptography for Developers
 ###############################################################
 
-Developers Docs
----------------------
-
 .. toctree::
    :maxdepth: 1
-   
+   :hidden:
+
    sdk/sdks
    services/services
    crypto-library/crypto-library
@@ -16,15 +14,40 @@ Developers Docs
    cli/v2.0/cli
    faq/faq
 
-:ref:`genindex`
----------------
+Welcome to the documentation of the Virgil Security — the modern security software developer. This documentation covers everything from getting started to how to start in minutes.
 
-License
---------------------
+   .. container:: index card-container
 
-BSD 3-Clause. See `LICENSE <https://github.com/VirgilSecurity/virgil/blob/master/LICENSE>`_ for details.
+       .. container:: sdk content-card
 
-Contacts
--------------------
+           :doc:`Virgil SDK <sdk/sdks>`
+           `Simplify work with Virgil Security services and Crypto Library for the most modern development languages and platforms.`
 
-Email: support@virgilsecurity.com
+       .. container:: cli content-card
+
+           :doc:`Virgil Security CLI <cli/v2.0/cli>`
+           `Our own console user interface for using Virgil Security stack functionality.`
+
+
+       .. container:: usecases content-card
+
+           :doc:`Use Cases <use-cases/use-cases>`
+           `Get inspired with our examples of cryptographic features which can be implemented using Virgil Security.`
+
+
+       .. container:: crypto content-card
+
+           :doc:`Virgil Crypto Library <crypto-library/crypto-library>`
+           `All you need to know about Virgil Crypto library usage and features.`
+
+
+       .. container:: services content-card
+
+           :doc:`Virgil Services <services/services>`
+           `APIs for keys maanagement and identities validation.`
+
+
+       .. container:: faq content-card
+
+           :doc:`FAQ <faq/faq>`
+           `Quick answers for Frequently Asked Questions`
